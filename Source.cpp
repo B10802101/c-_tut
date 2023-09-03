@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//1
 class student {
 private:						//Object
 	int Age;
