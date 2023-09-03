@@ -33,7 +33,7 @@ void operator<<(ostream& COUT, student& st) {
 	COUT << "The name is " << st.Name << endl;
 	COUT << "The Age is " << st.Age << endl;
 }
-//===================================================
+//===================================================//operator overloading practice
 void operator>>(istream& CIN, student& st) {
 	cout << "Name is : ";
 	CIN >> st.Name;
